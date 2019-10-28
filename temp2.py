@@ -1,3 +1,0 @@
-
-import temp
-print(asdftemp)
