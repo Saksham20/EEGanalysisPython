@@ -12,7 +12,7 @@ q2_eeg_data=np.load('q3_eeg_data.npy')
 n_samples=np.shape(q2_eeg_data)[0]
 fs=256
 n_channels=np.shape(q2_eeg_data)[1]
-
+#test
 #initializing--
 q2_eeg_data_filtered=q2_eeg_data
 q2_eeg_data_filtered_ica=q2_eeg_data
